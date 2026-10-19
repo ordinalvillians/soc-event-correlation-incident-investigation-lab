@@ -1,0 +1,24 @@
+SOC EVENT CORRELATION REPORT
+============================================================
+Total events analysed: 12
+
+POTENTIAL AUTHENTICATION INCIDENT
+Username: jsmith
+Source IP: 203.0.113.50
+Host: WIN-CLIENT07
+Failed logins: 5
+First failure: 2026-10-20 08:01:12
+Successful logon: 2026-10-20 08:02:03
+Related events:
+  08:01:12 | Logon Failure | Failure
+  08:01:19 | Logon Failure | Failure
+  08:01:27 | Logon Failure | Failure
+  08:01:34 | Logon Failure | Failure
+  08:01:42 | Logon Failure | Failure
+  08:02:03 | Successful Logon | Success
+  08:03:15 | PowerShell Execution | Success
+  08:04:21 | Process Created | Success
+
+Analysis complete.
+Correlated patterns require further investigation.
+This simulated dataset does not prove account compromise.

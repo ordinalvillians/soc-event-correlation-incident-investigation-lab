@@ -1,0 +1,13 @@
+event_id,timestamp,hostname,username,source_ip,event_type,result
+E2001,2026-10-20 08:01:12,WIN-CLIENT07,jsmith,203.0.113.50,Logon Failure,Failure
+E2002,2026-10-20 08:01:19,WIN-CLIENT07,jsmith,203.0.113.50,Logon Failure,Failure
+E2003,2026-10-20 08:01:27,WIN-CLIENT07,jsmith,203.0.113.50,Logon Failure,Failure
+E2004,2026-10-20 08:01:34,WIN-CLIENT07,jsmith,203.0.113.50,Logon Failure,Failure
+E2005,2026-10-20 08:01:42,WIN-CLIENT07,jsmith,203.0.113.50,Logon Failure,Failure
+E2006,2026-10-20 08:02:03,WIN-CLIENT07,jsmith,203.0.113.50,Successful Logon,Success
+E2007,2026-10-20 08:03:15,WIN-CLIENT07,jsmith,203.0.113.50,PowerShell Execution,Success
+E2008,2026-10-20 08:04:21,WIN-CLIENT07,jsmith,203.0.113.50,Process Created,Success
+E2009,2026-10-20 08:10:05,WIN-CLIENT02,kwilson,192.0.2.70,Successful Logon,Success
+E2010,2026-10-20 08:12:44,WIN-CLIENT03,asmith,192.0.2.80,Successful Logon,Success
+E2011,2026-10-20 08:15:31,WIN-CLIENT04,mbrown,192.0.2.90,Logon Failure,Failure
+E2012,2026-10-20 08:15:42,WIN-CLIENT04,mbrown,192.0.2.90,Successful Logon,Success
